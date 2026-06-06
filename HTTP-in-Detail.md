@@ -240,3 +240,47 @@ The server is temporarily unable to handle the request due to overload or mainte
 ---
 ## Key Takeaway
 HTTP status codes help the client understand the result of a request, whether it was successful, redirected, or failed due to client or server issues.
+
+## Cookies in HTTP
+
+Cookies are small pieces of data stored on your computer by a web browser. They are used to maintain information between HTTP requests.
+
+---
+
+## How Cookies Work
+
+1. A web server sends a cookie using the `Set-Cookie` header.
+2. The browser stores the cookie locally.
+3. On every subsequent request to the same server, the browser sends the cookie back.
+
+This allows the server to recognize the client across multiple requests.
+
+---
+
+## Why Cookies Are Used
+
+HTTP is a **stateless protocol**, meaning it does not remember previous requests. Cookies solve this limitation by storing session-related information.
+
+Cookies are commonly used for:
+
+- User authentication (keeping users logged in)
+- Personal preferences (language, theme, settings)
+- Tracking user activity (e.g., whether a user has visited before)
+- Session management
+
+---
+
+## Example Concept
+
+When you log into a website:
+
+- The server sends a session cookie after login
+- Your browser stores it
+- Each request you make includes that cookie
+- The server uses it to recognize you without asking you to log in again
+
+<img width="825" height="832" alt="image" src="https://github.com/user-attachments/assets/309f36b5-58cc-474c-bf91-023b53e04375" />
+
+---
+## Key Takeaway
+Cookies allow websites to maintain state in an otherwise stateless HTTP system by storing small pieces of data on the client side and sending them back with each request.
