@@ -1,4 +1,4 @@
-# TryHackMe: Operating Systems – Introduction
+# TryHackMe: Operating Systems Introduction
 
 ## Overview
 
@@ -7,7 +7,7 @@ This room introduced the fundamentals of operating systems, including how they m
 The hands-on exercise involved exploring a Linux desktop environment, reviewing system information, navigating user directories, and locating files.
 
 **Platform:** TryHackMe  
-**Room:** Operating Systems: Introduction  
+**Room:** Operating Systems Introduction  
 **Topics:** Operating System Fundamentals, Linux, System Enumeration, File Systems, Access Control
 
 ## 1. Operating System Fundamentals
