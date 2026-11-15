@@ -4,7 +4,7 @@
 |---|---|
 | **Room** | [How Websites Work](https://tryhackme.com/room/howwebsiteswork) |
 | **Platform** | TryHackMe |
-| **Pathway** | Pre Security – How the Web Works |
+| **Pathway** | Pre Security
 | **Focus** | Web Fundamentals, HTML, JavaScript, Web Application Security |
 
 ---
