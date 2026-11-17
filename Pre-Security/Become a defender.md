@@ -143,9 +143,3 @@ Key concepts learned:
 
 `Defensive Security` `Blue Team` `CIA Triad` `Threat Detection` `Risk Assessment` `Network Monitoring` `Incident Response` `Attack Paths` `Security Controls` `Infrastructure Security`
 
----
-
-## Resources
-
-- [TryHackMe – Become a Defender](https://tryhackme.com/room/becomeadefender)
-- [TryHackMe – Cyber Security Training](https://tryhackme.com/)
