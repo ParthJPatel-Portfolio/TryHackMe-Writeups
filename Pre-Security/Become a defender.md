@@ -16,7 +16,6 @@
 - [5. Key Terminology](#5-key-terminology)
 - [6. Key Takeaways](#6-key-takeaways)
 - [Skills & Concepts](#skills--concepts)
-- [Resources](#resources)
 
 ---
 
